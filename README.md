@@ -1,4 +1,3 @@
-## **Popa Filip-Andrei** (313CAb 2023-2024)
 # Numerical Methods project
 
 ### The project is structured into the following 3 independent methods:
